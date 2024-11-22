@@ -10,7 +10,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Docker, ReactJs, SQL**
+ 🌱 I’m currently learning **Python, Kotlin, SQL**
 
 💬 Ask me about **anything [here]()**
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c++,c#,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c++,c#,java,sql,flask" /><br>
 </div>
 
 <br/>

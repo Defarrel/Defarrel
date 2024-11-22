@@ -12,7 +12,7 @@
   
  🌱 I’m currently learning **Python, Kotlin, SQL**
 
-💬 Ask me about **anything [here]()**
+💬 Ask me about **anything [here](https://www.instagram.com/dfrlpraja_/)**
 
 ⚡ Fun fact **I love gym more than i love her LMAO**
 

@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Defarrel.Defarrel" />
 
-**Defarrel Danendra Praja**
+# Defarrel Danendra Praja
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=60&duration=4000&pause=800&lines=Flutter+Developer+%F0%9F%93%B1;Machine+Learning+Engineer+%F0%9F%A4%96;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Data+Scientist+%F0%9F%93%8A;Building+clean+%26+user-focused+apps+%E2%9C%A8" alt="Typing SVG" />
 

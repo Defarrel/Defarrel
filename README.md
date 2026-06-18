@@ -136,15 +136,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Defarrel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defarrel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+<img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/Defarrel?cardType=github&theme=tokyonight&preferLogin=false" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Defarrel&theme=tokyonight" />
 <br/>
-
 <img src="https://streak-stats.demolab.com/?user=Defarrel&theme=tokyonight&hide_border=true" />
-
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Defarrel&theme=tokyonight" />
 </div>
+
+<div align="center">
 
 ---
 

@@ -14,10 +14,12 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-defarrel.site-03060d?style=for-the-badge&logo=vercel&logoColor=white)](https://defarrel.site)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:defarreldanendra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/defarreldanendrapraja)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Defarrel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dfrlpraja_/)
+[![YouTube](https://img.shields.io/badge/YouTube-Gloy_Space-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gloyspace)
 
 </div>
 
@@ -27,6 +29,8 @@
 
 > Adaptable and fast-learning developer with hands-on experience in **Flutter mobile development**, **machine learning**, and **backend engineering**. Passionate about building efficient, user-focused digital solutions supported by modern technology.
 
+- 🌍 **Portfolio:** [defarrel.site](https://defarrel.site)
+- 💼 **Now:** Software Developer Apprentice at PT Tiga Serangkai Pustaka Mandiri (MagangHub)
 - 🎓 **Information Technology** — Universitas Muhammadiyah Yogyakarta (`GPA: 3.89 / 4.00`)
 - 🏅 **BNSP Certified** Associate Data Scientist (2026–2029)
 - 🧑‍🏫 Database Teaching Assistant — 2+ years, 50+ students/semester
@@ -143,8 +147,6 @@
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Defarrel&theme=tokyonight" />
 </div>
-
-<div align="center">
 
 ---
 

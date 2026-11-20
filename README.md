@@ -43,7 +43,6 @@
 - Built a two-stage hybrid anomaly detection & ML classification pipeline (**DBSCAN**, **Isolation Forest**, **XGBoost**) achieving up to **60% model precision**
 - Analyzed **2 years** of historical data across **700+ stocks** to classify market direction
 - Improved model performance by **10–15%** through feature engineering & parameter optimization
-- Currently under review for publication in **INASS Journal**
 
 `Python` `XGBoost` `DBSCAN` `Isolation Forest` `Scikit-learn` `Pandas`
 
